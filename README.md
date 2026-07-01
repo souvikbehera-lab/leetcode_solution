@@ -9,6 +9,7 @@ solving leetcode questions😊
 | [0001-two-sum](https://github.com/souvikbehera-lab/leetcode_solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/souvikbehera-lab/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/souvikbehera-lab/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/souvikbehera-lab/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,8 +19,13 @@ solving leetcode questions😊
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/souvikbehera-lab/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/souvikbehera-lab/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/souvikbehera-lab/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/souvikbehera-lab/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/souvikbehera-lab/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
